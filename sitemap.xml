@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://abdulafeez12.github.io/smarted-insights/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://abdulafeez12.github.io/tellavista.github.io/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://abdulafeez12.github.io/tawfiqai.github.io/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://www.khanacademy.org/</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://socratic.org/</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://quizlet.com/</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://edu.google.com/</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.duolingo.com/</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.studymonkey.ai/</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://openai.com/</loc>
+    <priority>0.80</priority>
+  </url>
+</urlset>
