@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abdulafeez12.github.io/smarted-insights/sitemap.xml
+
+# SmartEd Insights robots.txt
+# This allows all search engines to index your educational AI website.
